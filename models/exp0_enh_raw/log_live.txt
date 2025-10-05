@@ -1,0 +1,6 @@
+epoch 0, time: 10463.06
+	train_loss: 6.69, score: 30.48
+	eval score: 31.60 (92.66)
+epoch 1, time: 16064.19
+	train_loss: 5.93, score: 31.99
+	eval score: 32.86 (92.66)

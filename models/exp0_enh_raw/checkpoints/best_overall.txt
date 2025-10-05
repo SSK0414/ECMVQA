@@ -1,0 +1,7 @@
+inference_precomputed	Eval=0.4694	Path=models/exp0\checkpoints\best_inference_precomputed.pth
+base	Eval=0.4412	Path=models/exp0\checkpoints\best_base.pth
+Sat Oct  4 17:41:58 2025 | inference_live	Eval=0.3653	Path=models/exp0\checkpoints\best_inference_live.pth
+Sat Oct  4 23:53:06 2025 | base	Eval=0.4412	Path=models/exp0\checkpoints\best_base.pth
+Sun Oct  5 00:31:05 2025 | inference_precomputed	Eval=0.4694	Path=models/exp0\checkpoints\best_inference_precomputed.pth
+Sun Oct  5 01:01:54 2025 | inference_live	Eval=0.3615	Path=models/exp0\checkpoints\best_inference_live.pth
+Sun Oct  5 02:14:52 2025 | inference_precomputed	Eval=0.4694	Path=models/exp0\checkpoints\best_inference_precomputed.pth

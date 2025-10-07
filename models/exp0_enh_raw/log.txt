@@ -174,10 +174,14 @@ epoch 28, time: 938.22
 epoch 29, time: 946.08
 	train_loss: 3.286, score: 57.24
 	eval score: 52.76 (55.26)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch28.pth (Eval: 52.76)
+[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_28_vis.png
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
 epoch 30, time: 960.87
 	train_loss: 3.245, score: 59.30
 	eval score: 54.17 (57.67)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch28.pth (Eval: 54.17)
+[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_28_vis.png
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 

@@ -1,58 +1,183 @@
-epoch 1, time: 606.97
-	train_loss: 9.410, score: 36.34
-	eval score: 39.26 (41.69)
+epoch 1, time: 616.1
+	train_loss: 8.914, score: 24.02
+	eval score: 19.48 (21.98)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch1.pth (Eval: 19.48)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 2, time: 628.45
-	train_loss: 8.500, score: 39.35
-	eval score: 40.89 (43.05)
-[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_2_vis.png
+epoch 2, time: 615.91
+	train_loss: 8.166, score: 24.69
+	eval score: 19.60 (22.10)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch2.pth (Eval: 19.60)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 3, time: 637.81
-	train_loss: 7.563, score: 43.05
-	eval score: 42.83 (45.29)
-[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch3.pth (Eval: 42.83)
+epoch 3, time: 643.55
+	train_loss: 7.760, score: 26.21
+	eval score: 21.25 (23.75)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch3.pth (Eval: 21.25)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 4, time: 641.09
-	train_loss: 6.848, score: 45.92
-	eval score: 44.06 (46.23)
+epoch 4, time: 654.09
+	train_loss: 7.225, score: 27.88
+	eval score: 23.57 (26.07)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch4.pth (Eval: 23.57)
 [DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_4_vis.png
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 5, time: 641.07
-	train_loss: 6.212, score: 49.66
-	eval score: 45.74 (47.88)
+epoch 5, time: 655.05
+	train_loss: 6.707, score: 29.73
+	eval score: 25.73 (28.23)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch5.pth (Eval: 25.73)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 6, time: 661.28
-	train_loss: 5.636, score: 52.58
-	eval score: 47.60 (50.02)
-[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch6.pth (Eval: 47.60)
-[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_6_vis.png
+epoch 6, time: 681.54
+	train_loss: 6.123, score: 29.85
+	eval score: 25.77 (28.27)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch6.pth (Eval: 25.77)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 7, time: 664.92
-	train_loss: 4.947, score: 56.09
-	eval score: 49.38 (51.69)
+epoch 7, time: 680.05
+	train_loss: 5.997, score: 30.98
+	eval score: 25.64 (28.14)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 8, time: 671.23
-	train_loss: 4.495, score: 59.65
-	eval score: 51.33 (53.51)
+epoch 8, time: 691.57
+	train_loss: 5.864, score: 32.24
+	eval score: 28.13 (30.63)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch8.pth (Eval: 28.13)
 [DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_8_vis.png
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 9, time: 695.39
-	train_loss: 4.099, score: 62.64
-	eval score: 52.60 (54.78)
-[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch9.pth (Eval: 52.60)
+epoch 9, time: 714.36
+	train_loss: 5.545, score: 33.96
+	eval score: 28.79 (31.29)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch9.pth (Eval: 28.79)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 
-epoch 10, time: 691.33
-	train_loss: 3.683, score: 65.74
-	eval score: 54.45 (56.59)
-[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_10_vis.png
+epoch 10, time: 725.25
+	train_loss: 5.529, score: 34.97
+	eval score: 29.65 (32.15)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch10.pth (Eval: 29.65)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 11, time: 736.24
+	train_loss: 5.334, score: 36.81
+	eval score: 31.38 (33.88)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch11.pth (Eval: 31.38)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 12, time: 737.81
+	train_loss: 5.273, score: 37.54
+	eval score: 32.06 (34.56)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch12.pth (Eval: 32.06)
+[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_12_vis.png
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 13, time: 762.81
+	train_loss: 5.233, score: 39.23
+	eval score: 33.74 (36.24)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch13.pth (Eval: 33.74)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 14, time: 759.91
+	train_loss: 5.093, score: 39.98
+	eval score: 34.65 (37.15)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch14.pth (Eval: 34.65)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 15, time: 789.78
+	train_loss: 4.834, score: 40.50
+	eval score: 36.34 (38.84)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch15.pth (Eval: 36.34)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 16, time: 782.11
+	train_loss: 4.690, score: 42.19
+	eval score: 37.56 (40.06)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch16.pth (Eval: 37.56)
+[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_16_vis.png
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 17, time: 807.5
+	train_loss: 4.453, score: 43.40
+	eval score: 38.37 (40.87)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch17.pth (Eval: 38.37)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 18, time: 814.69
+	train_loss: 4.451, score: 43.87
+	eval score: 39.00 (41.50)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch18.pth (Eval: 39.00)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 19, time: 822.68
+	train_loss: 4.224, score: 46.59
+	eval score: 40.80 (43.30)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch19.pth (Eval: 40.80)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 20, time: 835.87
+	train_loss: 4.096, score: 47.46
+	eval score: 42.62 (45.12)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch20.pth (Eval: 42.62)
+[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_20_vis.png
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 21, time: 856.87
+	train_loss: 3.858, score: 48.55
+	eval score: 44.45 (46.95)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch21.pth (Eval: 44.45)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 22, time: 872.87
+	train_loss: 3.656, score: 48.76
+	eval score: 43.42 (45.92)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 23, time: 874.27
+	train_loss: 3.543, score: 50.67
+	eval score: 45.12 (47.62)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch23.pth (Eval: 45.12)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 24, time: 882.61
+	train_loss: 3.498, score: 51.83
+	eval score: 46.50 (49.00)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch24.pth (Eval: 46.50)
+[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_24_vis.png
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 25, time: 900.95
+	train_loss: 3.426, score: 53.00
+	eval score: 47.87 (50.37)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch25.pth (Eval: 47.87)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 26, time: 906.55
+	train_loss: 3.387, score: 53.49
+	eval score: 48.41 (50.91)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch26.pth (Eval: 48.41)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 27, time: 927.32
+	train_loss: 3.363, score: 54.81
+	eval score: 49.86 (52.36)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch27.pth (Eval: 49.86)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 28, time: 938.22
+	train_loss: 3.294, score: 57.37
+	eval score: 52.89 (55.39)
+[INFO] ✅ New best model for inference_precomputed_enhanced → saved at models/exp_enh_raw/checkpoints/best_epoch28.pth (Eval: 52.89)
+[DEBUG] Saved cross-modal attention maps → models/exp_enh_raw/attn_maps/epoch_28_vis.png
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 29, time: 946.08
+	train_loss: 3.286, score: 57.24
+	eval score: 52.76 (55.26)
+[INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
+
+epoch 30, time: 960.87
+	train_loss: 3.245, score: 59.30
+	eval score: 54.17 (57.67)
 [INFO] Latest model saved to models/exp_enh_raw/checkpoints/latest_inference_precomputed_enhanced.pth
 

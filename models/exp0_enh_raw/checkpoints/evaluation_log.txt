@@ -1,0 +1,26 @@
+inference_precomputed	Eval=0.5417	Path=models/exp0\checkpoints\best_inference_precomputed.pth
+base	Eval=0.5237	Path=models/exp0\checkpoints\best_base.pth
+
+Thu Sep 23 21:18:45 2025 | base	Eval=0.4376	Path=models/exp0/checkpoints/best_base.pth
+Fri Sep 24 00:07:11 2025 | inference_precomputed	Eval=0.1860	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth
+Fri Sep 24 01:59:02 2025 | inference_live	Eval=0.0741	Path=models/exp0/checkpoints/best_inference_live.pth
+Fri Sep 24 04:31:37 2025 | inference_test	Eval=0.3316	Path=models/exp0/checkpoints/best_inference_test.pth
+Sat Sep 25 02:14:59 2025 | inference_precomputed	Eval=0.2240	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth
+Sun Sep 26 03:01:21 2025 | inference_live	Eval=0.1291	Path=models/exp0/checkpoints/best_inference_precomputed.pth
+Sun Sep 26 06:50:33 2025 | inference_precomputed	Eval=0.2587	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth
+Mon Sep 27 00:15:58 2025 | inference_test	Eval=0.3749	Path=models/exp0/checkpoints/best_inference_test.pth
+Mon Sep 27 22:42:16 2025 | inference_precomputed	Eval=0.3118	Path=models/exp_enh_raw/checkpoints/bestbest_inference_precomputed_epoch10.pth
+Tue Sep 28 00:30:05 2025 | base	Eval=0.5237	Path=models/exp0/checkpoints/best_base.pth
+Tue Sep 28 05:17:41 2025 | inference_precomputed	Eval=0.3434	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth
+Wed Sep 29 04:09:22 2025 | inference_precomputed	Eval=0.3620	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth
+Thu Sep 30 01:00:08 2025 | inference_best	Eval=0.4149	Path=models/exp0/checkpoints/best_inference_best_run15.pth
+Fri Oct 01 03:55:40 2025 | inference_precomputed	Eval=0.4167	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth
+Fri Oct 01 05:42:15 2025 | inference_live	Eval=0.3711	Path=models/exp0/checkpoints/best_inference_live.pth
+Sat Oct 02 01:10:00 2025 | inference_test	Eval=0.4741	Path=models/exp0/checkpoints/best_inference_test.pth
+Sat Oct 02 23:04:30 2025 | inference_precomputed	Eval=0.4694	Path=models/exp0/checkpoints/best_inference_precomputed.pth
+Sun Oct 03 01:15:25 2025 | inference_best	Eval=0.5500	Path=models/exp0/checkpoints/best_inference_best_run21.pth
+Sun Oct 03 02:49:09 2025 | inference_precomputed	Eval=0.4694	Path=models/exp0/checkpoints/best_inference_precomputed.pth
+Sat Oct 04 17:41:58 2025 | inference_live	Eval=0.3653	Path=models/exp0/checkpoints/best_inference_live.pth
+Sun Oct 05 00:31:05 2025 | inference_precomputed	Eval=0.4673	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth
+Sun Oct 05 01:01:54 2025 | inference_live	Eval=0.3615	Path=models/exp0/checkpoints/best_inference_live.pth
+Sun Oct 05 02:14:52 2025 | inference_precomputed	Eval=0.5767	Path=models/exp_enh_raw/checkpoints/best_inference_precomputed.pth

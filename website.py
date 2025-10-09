@@ -32,7 +32,7 @@ q_dim = 512
 v_dim = 1024
 num_classes = 3129
 speech_encoder_path = 'models/stt_en_conformer_ctc_large_24500_hours_bpe.nemo'
-sbvqa2_model_path = 'models/best_sbvqa_2.0_model.pt'
+sbvqa2_model_path = 'models/best_inference_precomputed.pt'
 model = InferenceModel(q_dim, v_dim, num_hid, num_classes, speech_encoder_path,
                   rnn_type='GRU', bidirect=False, rnn_layers=1,
                   rnn_dropout=0.0, ans_gen_dropout=0.5).cuda()
@@ -101,4 +101,5 @@ def send_report(path):
 
 if __name__ == '__main__':
     app.run(use_reloader=False)
+
 
